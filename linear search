@@ -1,7 +1,5 @@
 #include <stdio.h>
-***LINEAR SEARCH ***
-
-
+//LINEAR SEARCH
 int main()
 {
   int  n ;
